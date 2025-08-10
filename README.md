@@ -1,4 +1,4 @@
-# Go Movies CRUD API
+# FilmShelf
 
 A simple RESTful API built with Go that implements CRUD (Create, Read, Update, Delete) operations for managing movie information. The project uses the Gorilla Mux router for handling HTTP requests.
 
