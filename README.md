@@ -88,7 +88,3 @@ curl -X POST http://localhost:8000/movies -H "Content-Type: application/json" -d
     }
 }'
 ```
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
